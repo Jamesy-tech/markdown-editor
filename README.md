@@ -1,1 +1,1 @@
-### This website is part of the Jamesy Creator project.
+### This repository is part of the Jamesy Creator project.
